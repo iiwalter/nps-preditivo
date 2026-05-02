@@ -78,8 +78,8 @@ O **modelo preditivo** descrito no desafio é **opcional**; a prioridade deste r
 5. Ajustar o caminho em `pd.read_csv(...)` se necessário, por exemplo:
 
    ```python
-   nps_data = pd.read_csv("desafio_nps_fase_1.csv")
-   # ou: pd.read_csv("../data/desafio_nps_fase_1.csv")
+   nps_data = pd.read_csv("../data/desafio_nps_fase_1.csv")
+   # ou manter: pd.read_csv("desafio_nps_fase_1.csv")
    ```
 
 6. Abrir o notebook no **Jupyter Lab**, **Jupyter Notebook** ou **VS Code** e executar as células **em ordem** (*Run All*).
