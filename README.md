@@ -58,7 +58,7 @@ O **modelo preditivo** descrito no desafio é **opcional**; a prioridade deste r
 
 ### No Google Colab
 
-1. Abrir o notebook: enviar o arquivo `nps_preditivo.ipynb` (*File → Upload notebook*) ou usar o botão **“Open in Colab”**.
+1. Abrir o notebook: enviar o arquivo `nps_preditivo.ipynb` (*File → Upload notebook*) ou usar o botão **“Open in Colab”** no proprio arquivo.
 2. Subir o CSV: no menu lateral (**ícone de pasta** / *Files*) → *Upload* → enviar **`desafio_nps_fase_1.csv`** para o ambiente (cole na raiz da aba Files/Arquivos).
 3. *Runtime* → **Run all** (ou ir célula a célula com Shift+Enter).
 
@@ -78,8 +78,8 @@ O **modelo preditivo** descrito no desafio é **opcional**; a prioridade deste r
 5. Ajustar o caminho em `pd.read_csv(...)` se necessário, por exemplo:
 
    ```python
-   nps_data = pd.read_csv("desafio_nps_fase_1.csv")
-   # ou: pd.read_csv("data/desafio_nps_fase_1.csv")
+   nps_data = pd.read_csv("../data/desafio_nps_fase_1.csv")
+   # ou manter: pd.read_csv("desafio_nps_fase_1.csv")
    ```
 
 6. Abrir o notebook no **Jupyter Lab**, **Jupyter Notebook** ou **VS Code** e executar as células **em ordem** (*Run All*).
