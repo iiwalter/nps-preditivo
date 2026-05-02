@@ -100,6 +100,6 @@ O **modelo preditivo** descrito no desafio é **opcional**; a prioridade deste r
 
 ## Autoria
 
-Amanda Rarymi Affanio
-Samuel Porto Alcala dos Santos
-Walter Henrique Costa Ferreira
+- Amanda Rarymi Affanio
+- Samuel Porto Alcala dos Santos
+- Walter Henrique Costa Ferreira
