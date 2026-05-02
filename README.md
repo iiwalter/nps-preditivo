@@ -93,7 +93,7 @@ O **modelo preditivo** descrito no desafio é **opcional**; a prioridade deste r
 ├── data/
 │   └── desafio_nps_fase_1.csv
 └── notebooks/
-    └── nps_preditivo.ipynb
+    └── eda-nps.ipynb
 ```
 
 ---
